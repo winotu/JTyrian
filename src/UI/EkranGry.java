@@ -137,6 +137,7 @@ public class EkranGry extends GameCanvas implements Runnable {
             initialize();
         }
         while (true) {
+            //
             //     Wylapanie ruchu
             //
             int ks = getKeyStates();
