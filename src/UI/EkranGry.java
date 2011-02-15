@@ -33,6 +33,8 @@ public class EkranGry extends GameCanvas implements Runnable {
         w = getWidth();
         h = getHeight();
 
+        pozStatY = h-40;
+
         try {
             statek = new Sprite(Image.createImage("/pics/statek.png"), 46, 60);
             statek.setFrameSequence(pozycje);
