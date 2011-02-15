@@ -8,6 +8,7 @@ import javax.microedition.lcdui.Graphics;
  *
  * @author WinoTu
  */
+
 public class EkranPowitalny extends Canvas {
 
     protected void paint(Graphics g) {
