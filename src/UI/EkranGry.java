@@ -10,6 +10,7 @@ import javax.microedition.lcdui.game.Sprite;
  *
  * @author WinoTu
  */
+
 public class EkranGry extends GameCanvas implements Runnable {
 
     private int w = 0;
