@@ -8,7 +8,7 @@ import javax.microedition.lcdui.game.Sprite;
 
 /**
  *
- * @author mackz
+ * @author WinoTu
  */
 public class EkranGry extends GameCanvas implements Runnable {
 

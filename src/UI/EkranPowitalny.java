@@ -6,7 +6,7 @@ import javax.microedition.lcdui.Graphics;
 
 /**
  *
- * @author mackz
+ * @author WinoTu
  */
 public class EkranPowitalny extends Canvas {
 

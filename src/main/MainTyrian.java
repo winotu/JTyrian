@@ -1,8 +1,3 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
-
 package main;
 
 import UI.EkranGry;
@@ -11,7 +6,7 @@ import javax.microedition.midlet.*;
 import javax.microedition.lcdui.*;
 
 /**
- * @author mackz
+ * @author WinoTu
  */
 public class MainTyrian extends MIDlet implements CommandListener{
 
