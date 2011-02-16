@@ -1,0 +1,16 @@
+#
+#	OpenSource J2ME remake of famous game, Tyrian.
+#
+#		( ^_^ ) /    Hi ! Hola ! Salut ! Cześć !
+#
+
+TODO LIST:
+========================================================
+- whole project code have to be splited into new class, with their destiny ex.  Controls -> Ships controls like move ;]
+- expand game logic
+- rework screen canvas, have an idea who it should looks best
+- i have original game sprites from the author of orginal game graphics ^_^, his blog site --> lostgarden.com
+- planty more :D
+
+
+								^_^
